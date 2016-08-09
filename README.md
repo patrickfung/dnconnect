@@ -4,7 +4,7 @@ This is just the basic confiugration file for Connect the REDIS DB for our servi
 
 Mainly to provide the connection to the DN research network/node. 
 
-As our member, you should know how to get the token and port number accordingly. 
+As our member, you must know how to get the token and port number accordingly. 
 
 Provided VPN is needed for the connection. (Through JP->RU)
 
