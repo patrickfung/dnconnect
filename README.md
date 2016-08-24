@@ -1,4 +1,4 @@
-# DN Connector (dnconnect)
+# Darkblock DN Connector (dnconnect)
 
 This is just the basic confiugration file for Connect the REDIS DB for our service.
 
