@@ -1,8 +1,8 @@
 # Darkblock DN Connector (dnconnect)
 
-This is just the basic confiugration file for Connect the REDIS DB for our service.
+Basic confiugration file for Connect the REDIS DB for our service.
 
-Mainly to provide the connection to the DN research network/node. 
+Providing the connection to the DN research network/node. 
 
 Please make sure you have following items ready before you make the connection:
 
@@ -22,4 +22,4 @@ The correct channel would be setup once you have connected successfully.
 
 Service/Application List would be updated time by time for our subscriber. 
 
-For enquiry, you may contact us by info@darkblock.de
+For other enquiry, please feel to contact us by info@darkblock.de
